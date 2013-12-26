@@ -1,0 +1,9 @@
+/bin
+/.gradle
+/.apt_generated
+/.apt_generated_tests
+/build
+/buildSrc/.gradle
+/buildSrc/build
+/compiletime-aspects
+/runtime-aspects
